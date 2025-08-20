@@ -1,7 +1,7 @@
 Sereen Prompt Reference
 
 General Style (add to all prompts):
-soft, feminine, elegant, photorealistic, natural light, minimal luxury interior, high detail skin, subtle dimples, Arab-American features, gentle eyebrows, glowy makeup
+soft, feminine, elegant, photorealistic, natural light, minimal luxury interior, shallow depth of field, high detail skin, subtle dimples, Arab-American features, gentle eyebrows, glowy makeup
 
 Negative Prompt:
 lowres, blurry, disfigured, extra fingers, deformed hands, harsh makeup, heavy contour, revealing clothing, cleavage, spaghetti straps, tank top, leggings, tight outfit, crop top, watermark
@@ -15,8 +15,8 @@ Sereen in an aesthetic closet corner with a rack of dresses only, belted long-sl
 Scene 3 – Vanity
 Sereen in a modest satin robe with long sleeves, seated at a vanity, applying serum, clean beauty look
 
-Scene 4 – Pilates
-Sereen in loose modest activewear: wide-leg pants, long-sleeve top, cardigan, in a boutique Pilates studio, reformer in background
+Scene 4 – Pilates (modest)
+Sereen in loose modest activewear: wide-leg pants, long-sleeve top, lightweight wrap cardigan, boutique Pilates studio, reformer in background
 
-Scene 5 – Travel
-Sereen in a tailored long-sleeve midi dress with trench detail, holding a passport and carry-on, luxury airport lounge
+Scene 5 – Travel (airport lounge)
+Sereen in a tailored long-sleeve midi dress with trench detail, holding a passport and carry-on (no logos), luxury airport lounge, soft golden hour lighting
