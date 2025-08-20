@@ -1,4 +1,3 @@
-
 Sereen Prompt Reference
 
 General Style (add to all prompts):
